@@ -3,7 +3,7 @@ layout: post
 title: "Houston, nous avons découvert le problème!"
 subtitle: "Finalisation de notre phase de découverte"
 author: "Ramis Khawaja"
-date: 2020-22-04 17:00:00 -0400
+date: 2020-04-22 17:00:00 -0400
 background: '/img/posts/blog4/alice-donovan-rouse-unsplash.jpg'
 lang: fr
 lang-ref: blog-4
