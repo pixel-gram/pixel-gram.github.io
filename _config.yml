@@ -2,8 +2,8 @@ title:              Team Pixel-Gram
 email:              jasper.chan@codefor.ca
 description:        Welcome to the Team Pixel-Gram blog! This is your one-stop shop to keep up to date with the Code for Canada fellows (C4C) and their progress at Measurement Canada. Scroll down to read the blog posts or head over to the about page to learn more about the fellows. 
 author:             Team Pixel-Gram
-baseurl:            "/ramispg.github.io"
-url:                "https://ramispg.github.io"
+baseurl:            "/ramis-c4c.github.io"
+url:                "https://ramis-c4c.github.io"
 
 # Social Profiles
 twitter_username:   
