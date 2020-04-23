@@ -52,7 +52,7 @@ Au cours des deux derniers mois, nous nous sommes efforcés de mieux comprendre 
 Le deuxième énoncé de problème concerne l'acquisition de l’équipement nécessaire et la coordination avec les inspecteurs des régions voisines pour assurer une couverture adéquate.
 </p>
 
-<img class="img-fluid img_horizontal" src="/img/posts/blog4/blg-asset-problem-#2-fr.jpg" alt="Problem #2">
+<img class="img-fluid img_horizontal" src="/img/posts/blog4/blg-asset-problem-#1-fr.jpg" alt="Problem #2">
 
 <p>
 Nous allons maintenant nous concentrer sur ces deux énoncés de problème, en commençant par le problème n°1. En nous concentrant sur ces deux énoncés de problème, nous aiderons non seulement les inspecteurs à faire leur travail plus efficacement, mais nous aiderons les inspecteurs de district et les gestionnaires régionaux et de district à simplifier leurs méthodes de travail. Comme ces deux énoncés de problèmes sont étroitement liés, cela nous donnera également de meilleures chances de les aborder plus facilement.
