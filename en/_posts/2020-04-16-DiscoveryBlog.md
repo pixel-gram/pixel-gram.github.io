@@ -51,13 +51,13 @@ While completion of this phase took a significant amount of time, it was an impo
 The first problem statement relates to the coordination of inspections and logistical aspects of their planning.
 </p>
 
-<img class="img-fluid img_horizontal" src="/img/posts/blog4/Blg-Asset_Problem #1 _EN.jpg" alt="Problem #1">
+<img class="img-fluid img_horizontal" src="/img/posts/blog4/blg-asset-problem-#1-en.jpg" alt="Problem #1">
 
 <p>
 The second problem statement relates to the procurement of the necessary equipment and coordination with inspectors in neighbouring areas to ensure proper coverage.
 </p>
 
-<img class="img-fluid img_horizontal" src="/img/posts/blog4/Blg-Asset_Problem #2 _EN.jpg" alt="Problem #2">
+<img class="img-fluid img_horizontal" src="/img/posts/blog4/blg-asset-problem-#2-en.jpg" alt="Problem #2">
 
 <p>
 We will now start focusing on these two problem statements, starting with problem #1. As we focus on these problem statements, we will not only help inspectors do their jobs more efficiently, but we will also help district inspectors and regional and district managers streamline their work processes. Because these two problem statements are closely related, it will also give us a better chance of tackling them more easily.
