@@ -13,7 +13,7 @@ lang-ref: intro-blog
 
 <p>Après un processus d'embarquement intensif d'un mois à Toronto avec des membres de Code For Canada (C4C) et divers représentants de l'industrie, nous nous sommes finalement établis à Ottawa. Un air d'excitation et de curiosité remplit le bureau alors que nous parcourons progressivement le bureau pour rencontrer nos nouveaux collègues. Il est immédiatement évident que tout le monde est enthousiaste et favorable avec "Priorité digital" et nous ne pourrions pas être plus heureux d'être dans un environnement si positif !</p> 
 
-<img class="img-fluid" src="/img/posts/blog1/IMG_4878.jpg" alt="team picture" style="transform:rotate(180deg);">
+<img class="img-fluid" src="/img/posts/blog1/IMG_4878.jpg" alt="team picture">
 <span class="caption text-muted">Quelle belle équipe !</span>
 
 <p>Pour ceux qui ne connaissent pas Code For Canada, nous sommes une équipe d'experts digitaux qui se sont unis avec Mesures Canada pour atteindre deux objectifs clés :</p>
