@@ -51,7 +51,7 @@ lang-ref: digital-capacity-1
     </ol>
 </ol> 
 
-<img class="img-fluid img_horizontal" src="/img/posts/blog3/IMG_5466.jpg" alt="Session Picture">
+<img class="img-fluid" src="/img/posts/blog3/IMG_5466.jpg" alt="Session Picture">
 <span class="caption text-muted">Représentation de la structure d'une équipe agile de scrum liée au laboratoire de gaz</span>
 
 <!-- <img class="img-fluid" src="/img/posts/blog3/IMG_5466.jpg" style="transform:rotate(90deg);>
