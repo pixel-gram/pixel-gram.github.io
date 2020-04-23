@@ -47,13 +47,13 @@ Au cours des deux derniers mois, nous nous sommes efforcés de mieux comprendre 
   Plus précisément, nous avons décidé de nous concentrer sur les sources d’irritation liées à la planification et à la coordination des inspections. Nous avons résumé ces sources d’irritation en deux énoncés de problème. Le premier énoncé de problème concerne la coordination des inspections et les aspects logistiques de leur planification. 
 </p>
 
-<img class="img-fluid" src="/img/posts/blog4/blg-asset-problem-1-fr.jpg" alt="Problem #1">
+<img class="img-fluid img_border" src="/img/posts/blog4/blg-asset-problem-1-fr.jpg" alt="Problem #1">
 
 <p>
 Le deuxième énoncé de problème concerne l'acquisition de l’équipement nécessaire et la coordination avec les inspecteurs des régions voisines pour assurer une couverture adéquate.
 </p>
 
-<img class="img-fluid" src="/img/posts/blog4/blg-asset-problem-2-fr.jpg" alt="Problem #2">
+<img class="img-fluid img_border" src="/img/posts/blog4/blg-asset-problem-2-fr.jpg" alt="Problem #2">
 
 <p>
 Nous allons maintenant nous concentrer sur ces deux énoncés de problème, en commençant par le problème n°1. En nous concentrant sur ces deux énoncés de problème, nous aiderons non seulement les inspecteurs à faire leur travail plus efficacement, mais nous aiderons les inspecteurs de district et les gestionnaires régionaux et de district à simplifier leurs méthodes de travail. Comme ces deux énoncés de problèmes sont étroitement liés, cela nous donnera également de meilleures chances de les aborder plus facilement.
