@@ -36,6 +36,7 @@ Au cours des deux derniers mois, nous nous sommes efforcés de mieux comprendre 
     <li>
       Pouvons-nous apporter une solution dans les six ou sept prochains mois afin d’aider les employés touchés par le               problème? 
     </li>
+  </ol>
 </p>
  
 <p>
