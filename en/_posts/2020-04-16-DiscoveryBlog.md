@@ -40,6 +40,7 @@ While completion of this phase took a significant amount of time, it was an impo
     <li>
       Can we deliver a solution in the next six to seven months to help employees affected by the problem?
     </li>
+  </ol>
 </p>
  
 <p>
