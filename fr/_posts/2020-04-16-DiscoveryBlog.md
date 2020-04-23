@@ -60,6 +60,6 @@ Nous allons maintenant nous concentrer sur ces deux énoncés de problème, en c
 </p>
 
 <p>
-Pour finir, nous voulons profiter de cette occasion pour remercier tout le monde pour le temps et le soutien qu'ils nous ont accordés pour nous aider à arriver là où nous sommes aujourd'hui!</br>
+Pour finir, nous voulons profiter de cette occasion pour remercier tout le monde pour le temps et le soutien qu'ils nous ont accordés pour nous aider à arriver là où nous sommes aujourd'hui!
 Si vous avez des questions sur notre processus de prise de décision ou si vous voulez en savoir plus sur notre projet, consultez l'article que nous avons écrit pour le blogue de Code for Canada. Vous pouvez également nous envoyer un courriel ou nous contacter par message sur Microsoft Teams!
 </p>
