@@ -65,7 +65,7 @@ We will now start focusing on these two problem statements, starting with proble
 </p>
 
 <p>
-To finish, we want to take this opportunity to thank everyone for their time and support to help us get to where we are today!</br>
+To finish, we want to take this opportunity to thank everyone for their time and support to help us get to where we are today!
 If you have any questions about our decisionmaking process or want to learn more about our process check out the article we wrote for the Code for Canada blog. You can also shoot us an email or message us on Microsoft Teams!
 </p>
 
