@@ -17,7 +17,7 @@ We hope you are all doing well and staying safe in this unprecedented time. Weâ€
 </p>
 
 <p>
-In the past two months, we have been focusing on gaining a better understanding of the challenges that Measurement Canada employees facing on a regular basis. 
+In the past two months, we have been focusing on gaining a better understanding of the challenges that Measurement Canada employees face on a regular basis. 
 We spoke with over twenty employees of various different positions, seniority levels, disciplines and regions to better understand the pain points they experience.
 We summarized and consolidated similar problems, and conducted an environmental scan to determine whether other initiatives are being pursued outside of the 
 fellowship that could help to solve these problems. This helped us to get an idea of potential blockers and enablers associated with the different problem areas. 
