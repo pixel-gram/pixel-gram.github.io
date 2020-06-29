@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Teleworking: tips and tools"
-subtitle: "Finalizing our discovery phase"
+subtitle: ""
 author: "Ramis Khawaja"
 date: 2020-06-29 17:00:00 -0400
 background: '/img/posts/blog4/alice-donovan-rouse-unsplash.jpg'
@@ -39,4 +39,38 @@ When you want to meet with your colleagues, it’s best to do so over a video co
 When working remotely from home, communication tends to be intermittent as people are often not available at the same time. Therefore, it’s best to over communicate and follow up frequently with colleagues. It's also important that everyone is aware of when their teammates are available and when they aren’t. 
 </p>
 
+<h3 class="section-heading">Imitate the office!</h3>
 
+<p>
+When working from home, we lose a lot of the day-to-day routine and social interactions that we had when working from the office. Many people really love the flexibility that comes with working remotely, especially in the early stages; however, the lack of structure and routine can begin weighing heavily as time goes on. 
+
+What I found has helped me is pretending that I am going into the office. For me, this means wearing nicer clothes, which is of tremendous help to get me into the “I'm going to go to work” mindset. 
+
+It also helps to create a comfortable workspace, ideally at a table or desk in an area with as little distraction and as much privacy as possible. This not only helps to stay productive, but it helps set a clearer boundary between personal and professional activities and can prevent overworking and burnout.
+ 
+Last, but not least, to make up for the lack of socializing, we highly encourage you to reach out to your coworkers for impromptu chats or to schedule lunches so you can catch up. 
+</p>
+
+<h3 class="section-heading">Imitate the office!</h3>
+<p>
+It’s so easy to get distracted when working from home, especially if there are other family members present.
+
+When I first started working from home, I found it very hard to focus and get into the work mindset. What helped me was having a daily list of tasks that needed to get done and completing them one by one. 
+
+It’s important to set up a daily routine to create habits that make it easier over time to get into and out of work mode. My morning ritual, for example, is to have a cup of tea, check in with my teammates and then play some music to get into the work mindset. 
+
+It also helps to take breaks throughout the day to give your brain a few minutes to refresh itself.
+</p>
+
+<h2 class="section-heading">Part 2: Tools for working from home</h2>
+<p>
+Here are three tools that can help you work more effectively while working from home:
+
+<ul>
+  <li>Microsoft Teams</li>
+  <li>Miro</li>
+  <li>FunRetro</li>
+</ul>
+
+Each of these tools promote collaborative workflow between teams, particularly for dispersed teams. Before using them for work, please make sure to check with your managers that they are compliant with ISED’s requirements.
+</p>
