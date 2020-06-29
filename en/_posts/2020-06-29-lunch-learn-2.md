@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Teleworking: tips and tools"
-subtitle: ""
+subtitle: "Tips and tools for working at home!"
 author: "Ramis Khawaja"
 date: 2020-06-29 17:00:00 -0400
 background: '/img/posts/blog4/alice-donovan-rouse-unsplash.jpg'
