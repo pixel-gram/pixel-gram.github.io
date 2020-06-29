@@ -114,9 +114,9 @@ Since working from home full time, our team has been using FunRetro exclusively 
 It’s okay if you are still uncomfortable working remotely. If you haven’t done it before, it can be hard to adjust, especially since the shift to working from home in March was so abrupt. These past few months have been stressful, so give yourself the time to develop new habits and routines that will help you be more productive when working from home. 
 
 I have also included some helpful links for those who want to learn more:
-: This article was written by one of the teams in our cohort, and you can think of it as “Working from Home 101”!
+<a href="https://code-for-canada.github.io/omafra-updates/Working-from-Home-a-Primer/">Working from Home - a Primer</a>: This article was written by one of the teams in our cohort, and you can think of it as “Working from Home 101”!
 
-This <a href="https://wordpress.com/blog/2020/03/20/remote-work-reader/">compilation of articles</a> was written by staff at Automattic (the company behind Wordpress.com). They have been working remotely for the past decade and have great insights on how to get more comfortable with it. Most of these articles reference their insights! Here are some highlights:
+This <a href="https://wordpress.com/blog/2020/03/20/remote-work-reader/">compilation of articles</a> was written by staff at Automatic (the company behind Wordpress.com). They have been working remotely for the past decade and have great insights on how to get more comfortable with it. Most of these articles reference their insights! Here are some highlights:
 
 <ul>
   <li> <a href="https://intenseminimalism.com/2020/quick-work-remote/">Quick, work remote! A guide on how to set up your remote working strategy</a></li>
