@@ -4,7 +4,7 @@ title: "Teleworking: tips and tools"
 subtitle: "Tips and tools for working at home!"
 author: "Ramis Khawaja"
 date: 2020-06-29 17:00:00 -0400
-background: '/img/posts/blog4/alice-donovan-rouse-unsplash.jpg'
+background: '/img/posts/blog5/remotebackground.jpg'
 lang: en
 lang-ref: blog-5
 ---
