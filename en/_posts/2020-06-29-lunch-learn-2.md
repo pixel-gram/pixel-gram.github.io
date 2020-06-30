@@ -42,7 +42,7 @@ When working remotely from home, communication tends to be intermittent as peopl
 
 <h3 class="section-heading">Imitate the office!</h3>
 
-<img class="img-fluid img_border" src="img/posts/blog5/office2.gif" alt="Imitating the office">
+<img class="img-fluid img_border" src="img/posts/blog5/office2.gif" alt="Imitate the office">
 
 <p>
 When working from home, we lose a lot of the day-to-day routine and social interactions that we had when working from the office. Many people really love the flexibility that comes with working remotely, especially in the early stages; however, the lack of structure and routine can begin weighing heavily as time goes on. 
