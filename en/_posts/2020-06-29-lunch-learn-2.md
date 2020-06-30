@@ -29,6 +29,7 @@ The tips and tools suggested in this post are those that have worked for us, but
 <h2 class="section-heading">Part 1: Tips on working from home</h2>
 <h3 class="section-heading">Communicate, communicate, communicate!</h3>
 
+<img class="img-fluid img_border" src="/img/posts/blog5/talking.gif" alt="Communication is key">
 <p>
 Clear communication is very important when working from home. Unlike the office environment, everyone is working in their own space, making collaboration and communication a lot harder. 
 
