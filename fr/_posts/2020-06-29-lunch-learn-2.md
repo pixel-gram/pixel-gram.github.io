@@ -4,7 +4,7 @@ title: "Conseils et outils pour le télétravail"
 subtitle: "Conseils et outils pour travailler de la maison"
 author: "Ramis Khawaja"
 date: 2020-06-29 17:00:00 -0400
-background: '/img/posts/blog4/alice-donovan-rouse-unsplash.jpg'
+background: '/img/posts/blog5/remotebackground.jpg'
 lang: fr
 lang-ref: blog-5
 ---
