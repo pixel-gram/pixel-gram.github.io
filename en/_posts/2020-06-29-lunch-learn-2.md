@@ -42,6 +42,8 @@ When working remotely from home, communication tends to be intermittent as peopl
 
 <h3 class="section-heading">Imitate the office!</h3>
 
+<img class="img-fluid img_border" src="img/posts/blog5/office 2.gif" alt="Imitating the office">
+
 <p>
 When working from home, we lose a lot of the day-to-day routine and social interactions that we had when working from the office. Many people really love the flexibility that comes with working remotely, especially in the early stages; however, the lack of structure and routine can begin weighing heavily as time goes on. 
 
@@ -52,7 +54,10 @@ It also helps to create a comfortable workspace, ideally at a table or desk in a
 Last, but not least, to make up for the lack of socializing, we highly encourage you to reach out to your coworkers for impromptu chats or to schedule lunches so you can catch up. 
 </p>
 
-<h3 class="section-heading">Imitate the office!</h3>
+<h3 class="section-heading">Stay productive and focused!</h3>
+
+<img class="img-fluid img_border" src="img/posts/blog5/focus 2.gif" alt="Staying productive and focused">
+
 <p>
 It’s so easy to get distracted when working from home, especially if there are other family members present.
 
