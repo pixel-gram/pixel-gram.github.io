@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conseils et outils pour le télétravail"
-subtitle: ""
+subtitle: "Conseils et outils pour travailler de la maison"
 author: "Ramis Khawaja"
 date: 2020-06-29 17:00:00 -0400
 background: '/img/posts/blog4/alice-donovan-rouse-unsplash.jpg'
