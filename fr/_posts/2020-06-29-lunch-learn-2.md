@@ -29,6 +29,8 @@ Les conseils et les outils suggérés ici sont ceux qui ont fonctionné pour nou
 <h2 class="section-heading">Partie 1 : Conseils pour travailler de chez soi</h2>
 <h3 class="section-heading">Communiquez, communiquez, communiquez!</h3>
 
+<img class="img-fluid img_border" src="/img/posts/blog5/talking.gif" alt="Communiquez, communiquez, communiquez!">
+
 <p>
 Il est très important de communiquer clairement lorsque vous travaillez de la maison. Contrairement à l’environnement de bureau, chacun travaille dans son propre espace, ce qui rend la collaboration et la communication plus difficiles. 
 
@@ -41,6 +43,8 @@ Lorsqu'on travaille à distance de la maison, la communication a tendance à êt
 
 <h3 class="section-heading">Imitez le bureau!</h3>
 
+<img class="img-fluid img_border" src="/img/posts/blog5/office2.gif" alt="Imitez le bureau!">
+
 <p>
 Lorsqu’on travaille de la maison, on perd une grande partie de notre routine quotidienne et des interactions sociales qu’on avait lorsqu’on travaillait du bureau. Beaucoup de gens apprécient vraiment la flexibilité du travail à distance, surtout dans les premiers temps. Cependant, le manque de structure et de routine peut commencer à peser lourdement avec le temps. 
 
@@ -52,6 +56,9 @@ Enfin, pour compenser le manque d’interactions sociales, nous vous encourageon
 </p>
 
 <h3 class="section-heading">Rester productif et concentré</h3>
+
+<img class="img-fluid img_border" src="/img/posts/blog5/focus2.gif" alt="Rester productif et concentré">
+
 <p>
 Il est si facile de se laisser distraire lorsqu'on travaille de la maison, surtout s’il y a d’autres membres de la famille qui sont présents. 
 
