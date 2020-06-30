@@ -15,7 +15,7 @@ lang-ref: blog-5
 <p>
 Nous espérons que vous allez tous bien et que vous êtes en sécurité. Le mois dernier, nous avons organisé notre deuxième dîner-causerie, et nous tenons à remercier tout le monde pour leur soutien continu. 
 
-Lors du dîner-causerie, nous avons échangé quelques conseils et outils utiles pour travailler de manière productive depuis la maison. Comme certains d'entre vous n'ont pas pu se joindre à nous, les principaux points de notre causerie seront traités dans cet article. Vous pouvez également consulter notre présentation ici! 
+Lors du dîner-causerie, nous avons échangé quelques conseils et outils utiles pour travailler de manière productive depuis la maison. Comme certains d'entre vous n'ont pas pu se joindre à nous, les principaux points de notre causerie seront traités dans cet article. Vous pouvez également consulter notre présentation <a href="https://docs.google.com/presentation/d/1pJyOgJBJ2JtvrbpfAyPw9BOMJtWintS78ujRvaehM9U/edit?usp=sharing">ici</a>! 
 
 Avant de sauter dans le vif du sujet, nous reconnaissons ceci :
 </p>
