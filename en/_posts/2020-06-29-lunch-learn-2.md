@@ -15,7 +15,7 @@ lang-ref: blog-5
 <p>
 We hope you are all doing well and staying safe. Last month we hosted our second lunch and learn, and we’d like to thank everyone for their continued support.
   
-At the lunch and learn, we shared some useful tips and tools for working productively from home. Because some of you weren't able to join us, we will be highlighting the discussion in this post. You can also view the full deck here! 
+At the lunch and learn, we shared some useful tips and tools for working productively from home. Because some of you weren't able to join us, we will be highlighting the discussion in this post. You can also view the full deck <a href="https://docs.google.com/presentation/d/1pJyOgJBJ2JtvrbpfAyPw9BOMJtWintS78ujRvaehM9U/edit?usp=sharing">here</a>! 
 
 Before we jump into the meat and potatoes, we want to acknowledge that:
 </p>
