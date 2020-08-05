@@ -28,10 +28,14 @@ lang-ref: blog-6
 <h3 class="section-heading">Complaints</h3>
 <p>In this scenario, a weights and measures inspector is organizing their workload and notices that complaints have been assigned to them. With the integration of multiple data sources, the inspector is able to quickly review critical information and decide when to perform the inspection.</p>
 
+<img class="img-fluid img_border" src="/img/posts/blog6/complaintsdemo.gif" alt="Complaints demo">
+
 <p>While designing our solution, we wanted to make sure inspectors were empowered to have full control over their own schedule, but also have enough flexibility to adapt to changes. We accomplished this by introducing the concept of “batches”. A batch is a group of inspections to be completed that is organized and maintained by the inspector. The inspector will have the ability to dynamically modify the batch, and set an effective date for the batch.</p>
 
 <h3 class="section-heading">Disputes</h3>
 <p>In this scenario, an electricity and gas inspector is organizing their workload and notices that disputes have been assigned to them. Similar to the previous scenario, the inspector is able to quickly review critical information and decide when to perform the inspection.</p>
+
+<img class="img-fluid img_border" src="/img/posts/blog6/disputessdemo.gif" alt="Disputes demo">
 
 <p>A key difference here is that electricity and gas inspectors require more coordination with the utility and authorized service provider (ASP) technicians. For this reason, we provided inspectors the ability to indicate exactly the day and time the inspection will take place. The schedule is then automatically created, based on the inspection date.</p>
 
