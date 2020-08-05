@@ -16,6 +16,10 @@ lang-ref: blog-6
 <h2 class="section-heading">Collaborating with user panels</h2>
 <p>A user panel is a group of subject matter experts (SMEs) that advises on and contributes to the design and functionality of a product. It is also a representative sample of the entire user population that the product is built for. For our purposes, we created two user panels to reflect the needs of both weights and measures, and electricity and gas inspectors. Among the employees who expressed interest in our baseline study, we selected 29 to serve as SMEs to help us build our digital solution. Here is the breakdown of the two user panels:</p>
 
+<img class="img-fluid img_border" src="/img/posts/blog6/WMpanel_en.png" alt="Weights and measures panel breakdown">
+
+<img class="img-fluid img_border" src="/img/posts/blog6/EGpanel_en.png" alt="Electricity and gas panel breakdown">
+
 <p>On a biweekly basis, we use Microsoft Teams to engage with our user panels and share our designs, thought processes and assumptions, and actively listen to the feedback given to us. Through multiple iterations, we collaboratively designed a prototype that helps inspectors efficiently create and maintain an organized inspection task planner.</p>
 
 <h2 class="section-heading">Solution demo</h2>
