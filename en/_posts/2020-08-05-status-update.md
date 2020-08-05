@@ -35,7 +35,7 @@ lang-ref: blog-6
 <h3 class="section-heading">Disputes</h3>
 <p>In this scenario, an electricity and gas inspector is organizing their workload and notices that disputes have been assigned to them. Similar to the previous scenario, the inspector is able to quickly review critical information and decide when to perform the inspection.</p>
 
-<img class="img-fluid img_border" src="/img/posts/blog6/disputessdemo.gif" alt="Disputes demo">
+<img class="img-fluid img_border" src="/img/posts/blog6/disputesdemo.gif" alt="Disputes demo">
 
 <p>A key difference here is that electricity and gas inspectors require more coordination with the utility and authorized service provider (ASP) technicians. For this reason, we provided inspectors the ability to indicate exactly the day and time the inspection will take place. The schedule is then automatically created, based on the inspection date.</p>
 
