@@ -9,7 +9,7 @@ lang: fr
 lang-ref: blog-6
 ---
 
-<h3>Hey Measurement Canada!</h3>
+<h3>Bonjour à Mesures Canada !</h3>
 
 <p>Au cours des derniers mois, nous avons travaillé en collaboration avec divers groupes pour nous aider à concevoir une solution numérique qui aidera les inspecteurs à simplifier le processus de planification de leur charge de travail. Dans cet article, nous allons vous présenter quelques-unes des étapes importantes que nous avons franchies et certains processus que nous avons suivis pour y parvenir.</p>
 
