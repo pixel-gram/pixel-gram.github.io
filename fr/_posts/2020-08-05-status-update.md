@@ -43,6 +43,6 @@ lang-ref: blog-6
 <p>Nous prévoyons de déployer un prototype fonctionnel de notre solution dans le nuage pour permettre aux inspecteurs d’en faire l’essai vers la fin de notre stage. Il y aura deux étapes dans l'environnement de production : les essais d'acceptation par l'utilisateur (EAU) et le déploiement de la production. Toutes les nouvelles fonctionnalités seront déployées pour les besoins des essais. Si les choses fonctionnent comme prévu, nous mettrons en production notre solution pour que tous les inspecteurs puissent l'utiliser.</p>
 
 <img class="img-fluid img_border" src="/img/posts/blog6/rolloutchart_fr.png" alt="Solution rollout flow">
-<span class="caption text-muted">Diagramme de déploiement de la solution></span>
+<span class="caption text-muted">Diagramme de déploiement de la solution</span>
 
 <p>Comme toujours, nous sommes là pour vous écouter si vous avez des idées ou des questions sur ce que nous faisons. N'hésitez pas à communiquer avec nous en utilisant nos coordonnées qui se trouvent sur la page « À propos de nous ».</p>
