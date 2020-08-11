@@ -37,7 +37,7 @@ lang-ref: blog-6
 
 <img class="img-fluid img_border" src="/img/posts/blog6/disputesdemo.gif" alt="Disputes demo">
 
-<p>A key difference here is that electricity and gas inspectors require more coordination with the utility and authorized service provider (ASP) technicians. For this reason, we provided inspectors the ability to indicate exactly the day and time the inspection will take place. The schedule is then automatically created, based on the inspection date.</p>
+<p>A key difference here is that electricity and gas inspectors require more coordination with the utility and accredited meter verifier (AMV) technicians. For this reason, we provided inspectors the ability to indicate exactly the day and time the inspection will take place. The schedule is then automatically created, based on the inspection date.</p>
 
 <h3 class="section-heading">Solution rollout strategy</h3>
 <p>Looking ahead, we are positioned to have a functional prototype of our digital solution deployed into the cloud to enable inspectors to test it towards the end of our fellowship. There will be two environment stages: user acceptance testing (UAT) and production. All new features will be deployed for testing. If things function as expected, we will roll out the solution into production for all inspectors to use.</p>
