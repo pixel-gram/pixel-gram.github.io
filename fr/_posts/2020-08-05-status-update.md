@@ -4,7 +4,7 @@ title: "État d'avancement de notre solution"
 subtitle: "Conçue par des inspecteurs, pour des inspecteurs"
 author: "Jasper Chan"
 date: 2020-08-05 17:00:00 -0400
-background: '/img/posts/blog5/remotebackground.jpg'
+background: '/img/posts/blog6/background.jpg'
 lang: fr
 lang-ref: blog-6
 ---
